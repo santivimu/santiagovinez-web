@@ -8,6 +8,8 @@ const links = [
   { href: "/sobre-mi", label: "Sobre mí" },
   { href: "/libros", label: "Libro" },
   { href: "/conferencias", label: "Conferencias" },
+  { href: "/blog", label: "Blog" },
+  { href: "/prensa", label: "Prensa" },
   { href: "/#contacto", label: "Contacto" },
 ];
 
