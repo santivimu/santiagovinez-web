@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { site, method, book, services, background, channels } from "@/lib/site-data";
 import { InsightTimerEmbed } from "@/components/insight-timer-embed";
+import { ContactForm } from "@/components/contact-form";
 
 export default function Home() {
   return (
@@ -238,75 +239,5 @@ export default function Home() {
         </div>
       </section>
     </>
-  );
-}
-
-function ContactForm() {
-  return (
-    <form
-      action={`mailto:${site.email}`}
-      method="post"
-      encType="text/plain"
-      className="space-y-4 rounded-2xl border border-border/60 bg-background-alt/40 p-8"
-    >
-      <div>
-        <label className="mb-1 block text-sm text-foreground-muted" htmlFor="nombre">
-          Nombre
-        </label>
-        <input
-          id="nombre"
-          name="nombre"
-          required
-          className="w-full rounded-lg border border-border bg-background px-4 py-2 text-sm outline-none focus:border-accent"
-        />
-      </div>
-      <div>
-        <label className="mb-1 block text-sm text-foreground-muted" htmlFor="email">
-          Email
-        </label>
-        <input
-          id="email"
-          name="email"
-          type="email"
-          required
-          className="w-full rounded-lg border border-border bg-background px-4 py-2 text-sm outline-none focus:border-accent"
-        />
-      </div>
-      <div>
-        <label className="mb-1 block text-sm text-foreground-muted" htmlFor="tipo">
-          Tipo de consulta
-        </label>
-        <select
-          id="tipo"
-          name="tipo"
-          className="w-full rounded-lg border border-border bg-background px-4 py-2 text-sm outline-none focus:border-accent"
-        >
-          <option>Conferencia / Keynote</option>
-          <option>Evento corporativo</option>
-          <option>Mentoría / Coaching</option>
-          <option>Colaboración</option>
-          <option>Medios</option>
-          <option>Otro</option>
-        </select>
-      </div>
-      <div>
-        <label className="mb-1 block text-sm text-foreground-muted" htmlFor="mensaje">
-          Mensaje
-        </label>
-        <textarea
-          id="mensaje"
-          name="mensaje"
-          rows={4}
-          required
-          className="w-full rounded-lg border border-border bg-background px-4 py-2 text-sm outline-none focus:border-accent"
-        />
-      </div>
-      <button
-        type="submit"
-        className="w-full rounded-full bg-accent px-6 py-3 text-sm font-medium text-background transition hover:bg-accent-soft"
-      >
-        Enviar mensaje
-      </button>
-    </form>
   );
 }
