@@ -16,6 +16,7 @@ export default function Libros() {
     datePublished: String(book.year),
     inLanguage: "es",
     description: book.description,
+    url: book.amazonUrl,
   };
 
   return (
@@ -54,15 +55,20 @@ export default function Libros() {
 
           <div className="mt-8 flex flex-wrap gap-4">
             <a
-              href="mailto:santiagovinez@gmail.com?subject=Quiero%20el%20libro%20El%20Poder%20es%20T%C3%BA-Yo"
+              href={book.amazonUrl}
+              target="_blank"
+              rel="noopener noreferrer"
               className="rounded-full bg-accent px-6 py-3 text-sm font-medium text-background transition hover:bg-accent-soft"
             >
-              Escríbeme para conseguirlo
+              Comprar en Amazon
+            </a>
+            <a
+              href="mailto:santiagovinez@gmail.com?subject=Quiero%20el%20libro%20El%20Poder%20es%20T%C3%BA-Yo"
+              className="rounded-full border border-border px-6 py-3 text-sm font-medium hover:border-accent hover:text-accent"
+            >
+              Escríbeme directamente
             </a>
           </div>
-          <p className="mt-3 text-xs text-foreground-muted/70">
-            Próximamente disponible directamente en Amazon KDP y Hotmart.
-          </p>
         </div>
       </div>
     </div>

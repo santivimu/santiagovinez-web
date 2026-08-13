@@ -29,6 +29,8 @@ export const book = {
     "Crecimos pensando que el poder del ser humano está determinado por factores externos. El Poder es Tú-Yo propone un proceso de autoconocimiento para revelar el poder que ya existe en cada persona.",
   englishTitle: "The Self-Powered Life",
   englishStatus: "Edición en inglés en preparación",
+  amazonUrl: "https://www.amazon.com.mx/EL-PODER-ES-T%C3%9A-YO-ebook/dp/B0BCCLR2QG",
+  asin: "B0BCCLR2QG",
 };
 
 export const services = [
