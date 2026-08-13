@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { site, method, book, services, background, channels } from "@/lib/site-data";
+import { InsightTimerEmbed } from "@/components/insight-timer-embed";
 
 export default function Home() {
   return (
@@ -148,6 +149,25 @@ export default function Home() {
         >
           Ver detalle de conferencias →
         </Link>
+      </section>
+
+      {/* Meditaciones */}
+      <section className="border-t border-border/60">
+        <div className="mx-auto max-w-6xl px-6 py-20">
+          <p className="font-display text-sm uppercase tracking-[0.3em] text-accent">
+            Meditaciones
+          </p>
+          <h2 className="mt-3 font-display text-3xl tracking-tight md:text-4xl">
+            Escucha en Insight Timer
+          </h2>
+          <p className="mt-4 max-w-2xl text-foreground-muted">
+            Serie &ldquo;El poder de observarte&rdquo;, una práctica por cada etapa
+            del {method.name}.
+          </p>
+          <div className="mt-10 max-w-xl">
+            <InsightTimerEmbed />
+          </div>
+        </div>
       </section>
 
       {/* Ecosistema */}

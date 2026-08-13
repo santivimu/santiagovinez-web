@@ -64,12 +64,18 @@ export const background = {
   ],
 };
 
-// URLs en null = pendiente: pásame el enlace exacto y lo conecto.
 export const channels = [
-  { label: "Instagram", handle: "@santiagovinez", url: "https://instagram.com/santiagovinez" },
-  { label: "TikTok", handle: "@santiagovimu", url: "https://tiktok.com/@santiagovimu" },
-  { label: "LinkedIn", handle: "Santiago Viñez", url: null as string | null },
-  { label: "Podcast — Ve Más Allá", handle: "Spotify", url: null as string | null },
-  { label: "Meditaciones", handle: "Insight Timer", url: null as string | null },
-  { label: "Libro y productos", handle: "Hotmart", url: null as string | null },
+  { label: "Instagram", handle: "@santiagovinez", url: "https://www.instagram.com/santiagovinez" },
+  { label: "TikTok", handle: "@santiagovimu", url: "https://www.tiktok.com/@santiagovimu" },
+  { label: "LinkedIn", handle: "Santiago Viñez", url: "https://www.linkedin.com/in/santiago-vinez" },
+  {
+    label: "Podcast — Ve Más Allá",
+    handle: "Spotify",
+    url: "https://open.spotify.com/show/2BdJrDFXSzriIFNN1ZG2Y4",
+  },
+  { label: "Meditaciones", handle: "Insight Timer", url: "https://insig.ht/VNilElvGz5b" },
+  { label: "Libro y productos", handle: "Hotmart", url: "https://go.hotmart.com/B106960889N" },
 ];
+
+export const insightTimerEmbedSrc =
+  "https://widgets.insighttimer.com/publisher/x3e8y5Z5U7b0T6P8b7w5a3V2X1s9n8V4p6p7W2Z9Y5K5q6f0C5X4n1Q6w0N3R3m9R0e2p1G7P4H9n0L5P5K2Y2f8j5A9K8H3x5N6?created_at=1786638422&cid=x3e8y5Z5U7b0T6P8b7w5a3V2X1s9n8V4p6p7W2Z9Y5K5q6f0C5X4n1Q6w0N3R3m9R0e2p1G7P4H9n0L5P5K2Y2f8j5A9K8H3x5N6";
