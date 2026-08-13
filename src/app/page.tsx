@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { site, method, book, services, background, channels } from "@/lib/site-data";
 import { InsightTimerEmbed } from "@/components/insight-timer-embed";
 import { ContactForm } from "@/components/contact-form";
@@ -116,8 +117,14 @@ export default function Home() {
                 Ver el libro
               </Link>
             </div>
-            <div className="flex aspect-[3/4] items-center justify-center rounded-2xl border border-border/60 bg-background font-display text-2xl text-foreground-muted">
-              {book.title}
+            <div className="overflow-hidden rounded-2xl border border-border/60">
+              <Image
+                src="/book-cover.jpg"
+                alt={`Portada del libro ${book.title}`}
+                width={684}
+                height={1069}
+                className="h-full w-full object-cover"
+              />
             </div>
           </div>
         </div>

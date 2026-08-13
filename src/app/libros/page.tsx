@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { book, site } from "@/lib/site-data";
 
 export const metadata: Metadata = {
@@ -17,6 +18,7 @@ export default function Libros() {
     inLanguage: "es",
     description: book.description,
     url: book.amazonUrl,
+    image: `${site.url}/book-cover.jpg`,
   };
 
   return (
@@ -31,8 +33,15 @@ export default function Libros() {
       </p>
 
       <div className="mt-6 grid gap-12 md:grid-cols-2 md:items-start">
-        <div className="flex aspect-[3/4] items-center justify-center rounded-2xl border border-border/60 bg-background-alt/40 font-display text-3xl text-foreground-muted">
-          {book.title}
+        <div className="overflow-hidden rounded-2xl border border-border/60">
+          <Image
+            src="/book-cover.jpg"
+            alt={`Portada del libro ${book.title}`}
+            width={684}
+            height={1069}
+            className="h-full w-full object-cover"
+            priority
+          />
         </div>
 
         <div>
