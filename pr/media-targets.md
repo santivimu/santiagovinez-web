@@ -40,6 +40,28 @@ Estos no tienen un email de contacto único y público — la forma más efectiv
 
 Proceso sugerido: busca cada uno en Instagram, revisa sus últimos 5-10 episodios para confirmar que el formato encaja contigo, y usa el pitch #4 (`pitch-emails.md`) adaptado al nombre del conductor/a.
 
+## Podcasts específicamente colombianos (o con host colombiano)
+
+Estos tres tienen mayor probabilidad real de responderte, porque el formato de entrevistas con emprendedores/expertos/historias de reinvención encaja directamente con tu historia (ejecutivo corporativo → autor → método propio):
+
+### Roca Project (Carlos Roca)
+- Conversaciones a fondo con expertos, personas influyentes y también gente anónima con historias de impacto — el formato es casi calcado a tu pitch
+- Contacto: `info@rocaproject.com`
+- Spotify: https://open.spotify.com/show/5XWpDtVEGxBhRJ4h9p2nBd
+
+### Aldea Global con Kike Posada
+- Kike Posada nació en Colombia (fue pionero del rock en español en radio comercial de EE.UU. con el programa "Boom" en Miami). Su podcast actual es de crecimiento personal, entrevistas, coaching y contenido holístico — encaja bien con el ángulo de autoconocimiento, menos con el ángulo puramente de negocio
+- Contacto: `kikeboom@gmail.com`
+- Apple Podcasts: https://podcasts.apple.com/us/podcast/aldea-global-con-kike-posada/id1440528714
+
+### Yo, Camilo (Camilo Barberi)
+- Recibe líderes, emprendedores, expertos y "soñadores" para hablar sin filtro de éxito, fracaso, resiliencia y decisiones que marcan el camino — tu historia (dejar un cargo corporativo estable) encaja directo con su formato
+- No encontré email público; contáctalo por Instagram o por el perfil de creador en Spotify: https://creators.spotify.com/pod/profile/czuluagarestrepo2/
+
+**Nota:** no incluí "Creadores" (creadores.co) que apareció en una búsqueda anterior porque su host, Marcelo Zegarra, es peruano, no colombiano — lo descarté para no darte un dato incorrecto.
+
+Empieza por **Roca Project** — es el que mejor encaja en formato y el que tiene contacto directo confirmado.
+
 ## Medios en inglés (para cuando esté lista *The Self-Powered Life*)
 
 - **Entrepreneur** (versión internacional) y **Inc.** tienen programas de colaboradores similares al de Entrepreneur en Español — busca "become a contributor" en cada sitio
