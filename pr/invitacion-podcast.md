@@ -45,4 +45,18 @@ Dado que tu contenido combina autoconocimiento práctico con una veta espiritual
 - Profesionales que hicieron un giro de carrera similar al tuyo (de corporativo a propósito propio) — la historia de transición es un imán de audiencia
 - Instructores de meditación o profesores de tradiciones contemplativas
 
-¿Tienes ya nombres en mente de tu red, o prefieres que busque candidatos concretos con contacto verificado (como hice con los podcasts de la Fase 5)?
+## Candidatos investigados
+
+### Ana María Peláez — recomendada, contacto confirmado
+- Coach certificada en Liderazgo por **Maxwell Leadership** (misma certificación que tienes tú)
+- 28 años en marketing y liderazgo de equipos comerciales — trayectoria previa similar a la tuya
+- TEDx speaker, coach de mindfulness y felicidad organizacional; dueña de su propio negocio de conferencias
+- Sitio: https://anamariapelaez.com.co
+- Contacto: `hola@anamariapelaez.com.co` (responden en <24h hábiles según su sitio) o WhatsApp +57 311 660 1997
+- **Gancho de apertura sugerido:** menciona la certificación Maxwell Leadership compartida en la primera línea del mensaje — es un punto de conexión real e inmediato
+
+### Otras pistas que investigué y descarté
+- Un conferencista colombiano con un método propio ("El Ciclo del SER", autor de *La burbuja de cristal*) — no pude verificar su nombre completo con confianza, así que no lo incluyo hasta confirmarlo
+- Invitados recientes de Roca Project (PauPautista, Nate Gentile) — no encajan en el nicho de autoconocimiento/espiritualidad de tu show, son de otros géneros (comedia, tecnología)
+
+Si quieres, puedo seguir buscando con un criterio más específico (ej. solo mujeres, solo instructores de meditación, solo autores con libro publicado en los últimos 2 años) — dime por dónde afinar y sigo.
