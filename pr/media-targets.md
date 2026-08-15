@@ -67,6 +67,16 @@ Empieza por **Roca Project** — es el que mejor encaja en formato y el que tien
 - **Entrepreneur** (versión internacional) y **Inc.** tienen programas de colaboradores similares al de Entrepreneur en Español — busca "become a contributor" en cada sitio
 - **Fast Company** recibe pitches directamente a los editores de sección (Leadership/Work Life) — mejor esperar a tener más tracción en inglés antes de este
 
+## Seguimiento de envíos
+
+| Fecha | Destinatario | Canal | Propuesta | Estado |
+|---|---|---|---|---|
+| 2026-08-13 | Roca Project (Carlos Roca) | Email | Ser invitado en su podcast | Enviado |
+| 2026-08-13 | Juan Pablo Raba ("Los Hombres Sí Lloran") | Instagram DM | Ser invitado en su podcast | Enviado |
+| 2026-08-13 | Johanna Gómez | LinkedIn (mensaje directo, ya conectados) | Colaboración — LinkedIn Live o entrevista cruzada de blog | Enviado |
+
+Actualiza esta tabla cada vez que envíes uno nuevo o recibas respuesta — así sabes en qué punto está cada conversación sin tener que revisar tu correo.
+
 ## Cadencia recomendada
 
 1-2 pitches por semana, nunca todos el mismo día. Empieza por Entrepreneur en Español (proceso más claro y accesible), sigue con un podcast, y deja Forbes/Expansión para cuando tengas al menos una publicación de referencia que puedas mencionar en el siguiente pitch ("como lo publiqué recientemente en...").
