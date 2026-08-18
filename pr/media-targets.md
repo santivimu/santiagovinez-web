@@ -71,9 +71,9 @@ Empieza por **Roca Project** — es el que mejor encaja en formato y el que tien
 
 | Fecha | Destinatario | Canal | Propuesta | Estado |
 |---|---|---|---|---|
-| 2026-08-13 | Roca Project (Carlos Roca) | Email | Ser invitado en su podcast | Enviado |
+| 2026-08-13 | Roca Project (Carlos Roca) | Email | Ser invitado en su podcast | **Respondieron 2026-08-16** — piden video 5 min + temas clave + iniciativas, ver `pr/roca-project-respuesta.md` |
 | 2026-08-13 | Juan Pablo Raba ("Los Hombres Sí Lloran") | Instagram DM | Ser invitado en su podcast | Enviado |
-| 2026-08-13 | Johanna Gómez | LinkedIn (mensaje directo, ya conectados) | Colaboración — LinkedIn Live o entrevista cruzada de blog | Enviado |
+| 2026-08-13 | Johanna Gómez | LinkedIn (mensaje directo, ya conectados) | Colaboración — LinkedIn Live o entrevista cruzada de blog | **Respondió** — pendiente revisar contenido de la respuesta |
 
 Actualiza esta tabla cada vez que envíes uno nuevo o recibas respuesta — así sabes en qué punto está cada conversación sin tener que revisar tu correo.
 
